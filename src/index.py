@@ -26,7 +26,7 @@ def main():
     print("Varasto(-100.0);")
     huono = Varasto(-100.0)
     print(huono)
-	
+
     print("Varasto(100.0, -50.7)")
     huono = Varasto(100.0, -50.7)
     print(huono)

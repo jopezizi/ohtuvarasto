@@ -328,8 +328,6 @@ max-public-methods=20
 # Maximum number of return / yield for function / method body.
 max-returns=6
 
-# Maximum number of statements in function / method body.
-max-statements=10
 
 # Minimum number of public methods for a class (see R0903).
 min-public-methods=2
